@@ -4,8 +4,8 @@ GetSimple Content Management System
 ================================================================================
 DESCRIPTION:
 
-GetSimple CMS is a flatfile CMS package that works fast and efficient and has 
-the best UI around.
+GetSimple CMS is a flatfile CMS package that is fast, efficient, and has the 
+best UI around.
 
 Official Website - http://get-simple.info/
 
